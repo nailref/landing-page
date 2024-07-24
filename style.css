@@ -90,6 +90,7 @@ button{
     background-color: #3882f6;
     color: #F9FAF8;
     width: 100px;
+<<<<<<< HEAD
 }
 /* Information Section*/
 
@@ -132,4 +133,6 @@ button{
     width: 150px;
     height: 150px;
     border-radius: 10px;   
+=======
+>>>>>>> 4ee6f15667a2cbdc91e4230a77caf61fa92ec130
 }
