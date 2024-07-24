@@ -59,12 +59,6 @@ body {
     background-color:grey;
 
 }
-/*button.signup {
-    background: #4169e1;
-    border: 1px solid royalblue;
-    color: white;
-    flex-shrink: 0;
-    margin-top: 6px;*/
 .hero {
     margin: 0;
     width: 500px;
@@ -97,7 +91,6 @@ button{
     background-color: #f5f5f5;
     text-align: center;
     align-content: center;
-    /*flex: 1;*/
     padding-bottom: 40px;
 
 
@@ -134,6 +127,7 @@ button{
     border-radius: 10px;   
 }
 /* Quote Section */
+
 .quote-section{
     display: flex;
     justify-content: center;
