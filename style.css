@@ -90,7 +90,6 @@ button{
     background-color: #3882f6;
     color: #F9FAF8;
     width: 100px;
-<<<<<<< HEAD
 }
 /* Information Section*/
 
@@ -133,6 +132,26 @@ button{
     width: 150px;
     height: 150px;
     border-radius: 10px;   
-=======
->>>>>>> 4ee6f15667a2cbdc91e4230a77caf61fa92ec130
+}
+/* Quote Section */
+.quote-section{
+    display: flex;
+    justify-content: center;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    padding-top: 60px;
+}
+.quote{
+    width: 50%;
+}
+.quote-text{
+    font-size: 36px;
+    font-style: italic;
+}
+.author{
+    font-weight: 800;
+    font-size: 18px;
+    text-align: right;
+    margin: 20px;
+    padding-bottom: 40px;
 }
